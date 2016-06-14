@@ -1,4 +1,4 @@
-# Project 1 - TipMe
+# Project 1 - TipMe -- test
 
 TipMe is a tip calculator application for iOS.
 
